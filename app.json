@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FF7643"
-      }
+      },
+      "package": "com.abhimanu_giri.gharsaathi"
     },
     "web": {
       "favicon": "./assets/favicon.png"
